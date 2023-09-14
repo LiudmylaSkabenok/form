@@ -60,10 +60,26 @@ input, textarea {
    transition: all 0.3s ease 0s;
    color: black;
 }
-section {
-   display: inline-block;
+#name:hover {
+   background-color: lightcoral;
+   transition: all 0.3s ease 0s;
+   border-radius: 5px;
 }
-
+#email:hover {
+   background-color: lightcoral;
+   transition: all 0.3s ease 0s;
+   border-radius: 5px;
+}
+#message-reg:hover {
+   background-color: lightcoral;
+   transition: all 0.3s ease 0s;
+   border-radius: 5px;
+}
+.placeholder-text:hover {
+   background-color: lightcoral;
+   transition: all 0.3s ease 0s;
+   border-radius: 5px;
+}
 
 
 
